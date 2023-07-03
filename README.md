@@ -1,2 +1,3 @@
-# truffle-metamask-app
+# Supply Chain dApp
  
+The Supply Chain dApp is an innovative blockchain application aimed at providing a transparent, traceable, and secure supply chain process. The dApp utilizes Ethereum smart contracts to facilitate the creation, payment, and delivery of items. It consists of two smart contracts, ItemManager and Item, responsible for managing the lifecycle of an item in the supply chain. Additionally, it includes the "Ownable" functionality for securing smart contracts and enabling owner-only access. The application also provides a user-friendly interface, created with React and Truffle, to interact with the deployed smart contracts on the Ethereum blockchain. Lastly, it leverages Web3's subscription capability to listen for payment events, ensuring real-time updates about transactions.
