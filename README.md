@@ -1,0 +1,2 @@
+# truffle-metamask-app
+ 
